@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ab5beea-6f4e-4774-b8c5-5960051990dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/soybean-common/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soybean-common/soybean-common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soybean-system/soybean-system.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -13,6 +14,10 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
@@ -20,8 +25,13 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/soybean-common/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/soybean-system/pom.xml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -72,6 +82,19 @@
               <item name="soybean" type="462c0819:PsiDirectoryNode" />
               <item name="soybean-common" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="soybean" type="b2602c69:ProjectViewProjectNode" />
+              <item name="soybean" type="462c0819:PsiDirectoryNode" />
+              <item name="soybean-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="soybean" type="b2602c69:ProjectViewProjectNode" />
+              <item name="soybean" type="462c0819:PsiDirectoryNode" />
+              <item name="soybean-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -88,8 +111,8 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
@@ -114,12 +137,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566538677055</updated>
-      <workItem from="1566538678317" duration="253000" />
+      <workItem from="1566538678317" duration="500000" />
     </task>
+    <task id="LOCAL-00001" summary="Linc Create Code">
+      <created>1566539082333</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566539082334</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="253000" />
+    <option name="totallyTimeSpent" value="500000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -159,11 +190,18 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Linc Create Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Linc Create Code" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/soybean-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soybean-system/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
