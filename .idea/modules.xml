@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/soybean.iml" filepath="$PROJECT_DIR$/soybean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soybean-common/soybean-common.iml" filepath="$PROJECT_DIR$/soybean-common/soybean-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soybean-system/soybean-system.iml" filepath="$PROJECT_DIR$/soybean-system/soybean-system.iml" />
     </modules>
   </component>
 </project>
